@@ -1,6 +1,23 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vi
+
+---
+
+# To-Do App
+
+This is a simple To-Do application built with **React**, **TypeScript**, and **Vite**. It allows users to manage tasks efficiently.
+
+## Features
+
+- **Add Tasks**: Easily add new tasks to your list.
+- **Mark as Completed or Active**: Toggle tasks between active and completed states.
+- **Delete Tasks**: Remove tasks when they're no longer needed.
+
+This app is a basic yet effective tool for managing daily tasks with a clean and user-friendly interface.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1053" alt="Screenshot 2024-10-29 at 14 44 16" src="https://github.com/user-attachments/assets/3731ca4f-55c4-4624-ba9d-a8161842eea1">
+
+
 
 Currently, two official plugins are available:
 
@@ -47,4 +64,6 @@ export default tseslint.config({
     ...react.configs['jsx-runtime'].rules,
   },
 })
+
 ```
+
